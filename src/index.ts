@@ -37,7 +37,6 @@ export { default as AtSwitch } from './components/AtSwitch/AtSwitch'
 export { default as AtTabs } from './components/AtTabs/AtTabs'
 export { default as AtTabsPane } from './components/AtTabsPane/AtTabsPane'
 
-
 // export { default as AtTag } from './components/AtTag/AtTag'
 export { default as AtTextarea } from './components/AtTextarea/AtTextarea'
 // export { default as AtTimeline } from './components/AtTimeline/AtTimeline'
@@ -55,11 +54,8 @@ export { default as AtImagePicker } from './components/AtImagePicker/AtImagePick
 // export { default as AtCalendar } from './components/calendar'
 export { default as AtFab } from './components/AtFab/AtFab'
 
-
 /* 私有的组件  */
 export { default as AtLoading } from './components/AtLoading/AtLoading'
 // export { default as AtComponent } from './common/component'
-export { default as TaroDate } from './components/TaroDate'
 
 export { default as Skeleton } from './components/Skeleton/Skeleton'
-

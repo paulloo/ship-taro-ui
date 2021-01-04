@@ -1,4 +1,3 @@
-
 export { default as AtActionSheet, AtActionSheetItem } from './action-sheet'
 export { default as AtActivityIndicator } from './activity-indicator'
 export { default as AtBadge } from './badge'
@@ -24,7 +23,6 @@ export { default as AtCurtain } from './curtain'
 export { default as AtImagePicker } from './image-picker'
 export { default as AtIndexes } from './indexes'
 export { default as Skeleton } from './skeleton'
-export { default as TaroDate } from './taro-date'
 
 // export declare const AtModalHeader: ComponentClass
 // export declare const AtModalAction: ComponentClass
