@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Progress Snap render Progress -- props color  1`] = `"<div class=\\"at-progress at-progress--progress\\"><div class=\\"at-progress__outer\\"><div class=\\"at-progress__outer-inner\\"><div style=\\"width:0px;height:2px;background-color:#FF4949;\\" class=\\"at-progress__outer-inner-background\\"></div></div></div><div class=\\"at-progress__content\\">0%</div></div>"`;
+
+exports[`Progress Snap render Progress -- props isHidePercent 1`] = `"<div class=\\"at-progress at-progress--progress\\"><div class=\\"at-progress__outer\\"><div class=\\"at-progress__outer-inner\\"><div style=\\"width:0px;height:2px;background-color:;\\" class=\\"at-progress__outer-inner-background\\"></div></div></div>undefined</div>"`;
+
+exports[`Progress Snap render Progress -- props percent 1`] = `"<div class=\\"at-progress at-progress--progress\\"><div class=\\"at-progress__outer\\"><div class=\\"at-progress__outer-inner\\"><div style=\\"width:25%;height:2px;background-color:;\\" class=\\"at-progress__outer-inner-background\\"></div></div></div><div class=\\"at-progress__content\\">25%</div></div>"`;
+
+exports[`Progress Snap render Progress -- props status(error)  1`] = `"<div class=\\"at-progress at-progress--error\\"><div class=\\"at-progress__outer\\"><div class=\\"at-progress__outer-inner\\"><div style=\\"width:0px;height:2px;background-color:;\\" class=\\"at-progress__outer-inner-background\\"></div></div></div><div class=\\"at-progress__content\\"><span class=\\"taro-text at-icon at-icon-close-circle\\"></span></div></div>"`;
+
+exports[`Progress Snap render Progress -- props status(progress)  1`] = `"<div class=\\"at-progress at-progress--progress\\"><div class=\\"at-progress__outer\\"><div class=\\"at-progress__outer-inner\\"><div style=\\"width:0px;height:2px;background-color:;\\" class=\\"at-progress__outer-inner-background\\"></div></div></div><div class=\\"at-progress__content\\">0%</div></div>"`;
+
+exports[`Progress Snap render Progress -- props status(success)  1`] = `"<div class=\\"at-progress at-progress--success\\"><div class=\\"at-progress__outer\\"><div class=\\"at-progress__outer-inner\\"><div style=\\"width:0px;height:2px;background-color:;\\" class=\\"at-progress__outer-inner-background\\"></div></div></div><div class=\\"at-progress__content\\"><span class=\\"taro-text at-icon at-icon-check-circle\\"></span></div></div>"`;
+
+exports[`Progress Snap render Progress -- props strokeWidth  1`] = `"<div class=\\"at-progress at-progress--progress\\"><div class=\\"at-progress__outer\\"><div class=\\"at-progress__outer-inner\\"><div style=\\"width:0px;height:10px;background-color:;\\" class=\\"at-progress__outer-inner-background\\"></div></div></div><div class=\\"at-progress__content\\">0%</div></div>"`;
+
+exports[`Progress Snap render initial Progress 1`] = `"<div class=\\"at-progress at-progress--progress\\"><div class=\\"at-progress__outer\\"><div class=\\"at-progress__outer-inner\\"><div style=\\"width:0px;height:2px;background-color:;\\" class=\\"at-progress__outer-inner-background\\"></div></div></div><div class=\\"at-progress__content\\">0%</div></div>"`;
