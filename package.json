@@ -156,9 +156,6 @@
 	],
 	"types": "./types/index.d.ts",
 	"author": "paul",
-	"publishConfig": {
-		"registry": "https://www.npmjs.com/"
-	},
 	"eslintConfig": {
 		"extends": [
 			"o2team",
