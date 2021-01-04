@@ -157,7 +157,7 @@
 	"types": "./types/index.d.ts",
 	"author": "paul",
 	"publishConfig": {
-		"registry": "http://nexus.17usoft.com/repository/npm-framework-1024-transfer/"
+		"registry": "https://www.npmjs.com/"
 	},
 	"eslintConfig": {
 		"extends": [
