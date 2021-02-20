@@ -1,6 +1,6 @@
 {
 	"name": "ship-taro-ui",
-	"version": "1.7.0",
+	"version": "1.7.1",
 	"private": false,
 	"main": "dist/index.js",
 	"main:h5": "dist/h5/index.js",
