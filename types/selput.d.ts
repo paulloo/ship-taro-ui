@@ -47,11 +47,6 @@ export declare type KeyboardHeightEventDetail = {
   duration: number
 }
 
-
-
-
-
-
 export interface AtSelputProps extends AtComponent, OmitSelputProps {
   /**
    * 输入框的唯一标识，有传入点击 title 会聚焦输入框
